@@ -1,1 +1,1 @@
-# Software-Design-Pattern
+# Software-Design-Patterns
